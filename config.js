@@ -11,10 +11,10 @@ const WEDDING_CONFIG = {
   location: "Tại Địa chỉ: tt4-59 tái định cư ngọc thụy ",
 
   // link mở ngoài (mở app Google Maps trên điện thoại)
-  mapUrl: "https://www.google.com/maps/place/Tt3+khu+t%C3%A1i+%C4%91%E1%BB%8Bnh+c%C6%B0+Ng%E1%BB%8Dc+Th%E1%BB%A5y+-+Th%C6%B0%E1%BB%A3ng+Thanh/@21.0567939,105.8727943,155m/data=!3m1!1e3!4m10!1m2!2m1!1zdHQ0LTU5IHTDoWkgxJHhu4tuaCBjxrAgbmfhu41jIHRo4buleQ!3m6!1s0x3135abc945f42063:0x879b484d26a91131!8m2!3d21.0570172!4d105.8733547!15sCiV0dDQtNTkgdMOhaSDEkeG7i25oIGPGsCBuZ-G7jWMgdGjhu6V5kgETaG91c2luZ19kZXZlbG9wbWVudKoBchABKiIiHnTDoWkgxJHhu4tuaCBjxrAgbmfhu41jIHRo4buleShCMh8QASIbOLoyLv_hDTi2IV1AvvnuWerQWhTBLGm4hujWMikQAiIldHQ0IDU5IHTDoWkgxJHhu4tuaCBjxrAgbmfhu41jIHRo4buleeABAA!16s%2Fg%2F11nmqqj8w8?hl=vi&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+  mapUrl: "https://www.google.com/maps/place/21%C2%B003'24.3%22N+105%C2%B052'22.0%22E/@21.056762,105.8728757,761a,35y,5.38h/data=!3m1!1e3!4m4!3m3!8m2!3d21.056736!4d105.872773!17m2!4m1!1e3!18m1!1e1?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
 
   // link embed hiển thị trực tiếp trong trang
-  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d676.4813128345734!2d105.87279426917301!3d21.056793947327744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abc945f42063%3A0x879b484d26a91131!2zVHQzIGtodSB0w6FpIMSR4buLbmggY8awIE5n4buNYyBUaOG7pXkgLSBUaMaw4bujbmcgVGhhbmg!5e1!3m2!1svi!2s!4v1760723301166!5m2!1svi!2s",
+  mapEmbed: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d760.7414466392947!2d105.8728756857794!3d21.05676203171716!2m3!1f5.375999999999998!2f0!3f0!3m2!1i1024!2i768!4f35!3m2!1m1!2zMjHCsDAzJzI0LjMiTiAxMDXCsDUyJzIyLjAiRQ!5e1!3m2!1svi!2s!4v1761402434970!5m2!1svi!2s",
 
   heroImage: "assets/hero-cover.jpg",
   doorLeft: "assets/A.png",
